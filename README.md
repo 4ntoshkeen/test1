@@ -5,7 +5,7 @@ JDK: open-jdk18.
 Запуск приложения:
 1. В папке src находится файл Main.java.
 В командной строке из директории с файлом ввести команды:
-javac Main.java
-java Main
+1) javac Main.java 
+2) java Main
 
 2. Используя Intellij Idea.
